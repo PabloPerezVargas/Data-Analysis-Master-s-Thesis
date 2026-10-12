@@ -1,4 +1,4 @@
-# Design and validation of two anxiety knowledge questionnaires
+# Design and validation of two anxiety knowledge questionnaires for the study of the relationship between knowledge and perceived anxiety
 
 Master's Thesis in Advanced Multivariate Data Analysis and Big Data | University of Salamanca | 2022–2023
 
