@@ -1,0 +1,175 @@
+"id","age","gender","education","group","psychology","perceived_anxiety","total_score","X1","X2","X3","X4","X5","X6","X7","X8","X9","X10","X11","X12","X13","X14","X15","X16","X17","X18","X19","X20","X21","X22","X23","X24","X25","X26","X27"
+1,23,"Male","Upper secondary / vocational","Other training","Other",6,13,0,0,1,1,1,1,1,0,0,1,1,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,1
+2,19,"Female","Secondary","Other training","Other",8,18,0,0,1,1,1,1,1,0,1,1,0,0,0,1,1,0,0,1,1,1,0,1,1,1,1,1,1
+3,24,"Male","Upper secondary / vocational","Other training","Other",2,16,0,0,0,1,1,1,1,0,1,1,0,1,0,0,0,1,0,1,1,1,1,1,0,0,1,1,1
+4,24,"Female","Postgraduate","Other training","Other",8,22,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,0,0,0,1,1,1,1
+5,25,"Female","University","Other training","Other",8,18,0,0,1,1,1,1,0,1,0,1,1,0,1,1,1,1,0,1,1,1,0,1,1,0,1,0,1
+6,23,"Female","Postgraduate","Health training","Psychology",5,27,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+7,20,"Male","Secondary","Other training","Other",7,14,0,1,1,1,1,1,1,0,1,1,0,0,0,0,1,0,0,1,1,0,1,0,0,1,1,0,0
+8,22,"Male","University","Other training","Other",3,19,1,0,1,1,0,1,1,0,1,1,1,0,0,1,1,1,1,1,0,1,1,1,1,0,0,1,1
+9,23,"Male","Secondary","Other training","Other",7,6,0,0,0,1,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+10,23,"Male","Upper secondary / vocational","Other training","Other",5,21,0,0,1,0,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1
+11,23,"Female","Postgraduate","Health training","Psychology",6,21,1,1,1,1,0,1,1,1,1,0,1,0,1,1,1,1,1,1,0,1,1,1,1,1,0,1,0
+12,21,"Male","Postgraduate","Other training","Other",5,21,0,0,1,0,0,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1
+13,30,"Female","Postgraduate","Health training","Psychology",8,26,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+14,23,"Female","Postgraduate","Health training","Psychology",8,24,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+15,23,"Female","Postgraduate","Health training","Psychology",7,24,0,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+16,28,"Female","Postgraduate","Health training","Psychology",1,26,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+17,23,"Male","Postgraduate","Health training","Psychology",3,26,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+18,24,"Female","Postgraduate","Health training","Psychology",3,26,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1
+19,25,"Female","Postgraduate","Health training","Psychology",8,24,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+20,23,"Male","Postgraduate","Health training","Psychology",5,21,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,1,1,1,1,0,0,1,1,1,1,1
+21,22,"Female","University","Health training","Psychology",9,24,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+22,26,"Female","University","Health training","Other",1,23,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1
+23,22,"Female","University","Other training","Other",5,22,1,1,1,1,1,1,0,1,1,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0
+24,24,"Female","Postgraduate","Health training","Psychology",9,24,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1
+25,21,"Female","Upper secondary / vocational","Other training","Other",8,22,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,0,1,1,0,1,1,1,1,1
+26,23,"Female","University","Other training","Other",7,17,1,0,0,1,1,1,1,1,0,0,1,0,1,1,0,0,1,1,0,1,1,0,1,1,0,1,1
+27,23,"Male","University","Other training","Other",5,22,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,0
+28,,"Male","University","Other training","Other",1,10,0,0,0,1,1,0,1,0,0,1,0,1,0,1,0,1,1,0,0,0,0,0,1,0,0,1,0
+29,22,"Female","University","Other training","Other",7,18,0,0,0,1,1,0,0,0,0,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1
+30,21,"Male","University","Other training","Other",1,17,0,0,0,1,1,1,1,1,0,1,1,0,1,1,0,0,0,1,1,1,0,1,0,1,1,1,1
+31,22,"Male","University","Other training","Other",7,18,0,0,0,1,1,1,1,0,0,1,0,1,1,0,1,1,1,0,1,1,1,0,1,1,1,1,1
+32,18,"Female","Upper secondary / vocational","Other training","Other",8,25,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+33,26,"Female","Postgraduate","Other training","Other",7,22,1,0,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1
+34,25,"Female","University","Other training","Other",6,18,0,0,0,1,1,1,1,1,0,1,1,0,1,1,1,0,1,1,1,1,1,0,1,1,0,1,0
+35,22,"Female","University","Other training","Other",5,22,0,1,1,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1
+36,24,"Male","Postgraduate","Other training","Other",3,22,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,0,1,0,1,1,1,1,1,1
+37,22,"Male","University","Other training","Other",7,8,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,1,1,0,0,0,1,0,0
+38,24,"Male","University","Other training","Other",4,17,1,1,1,0,0,1,0,0,0,1,1,0,1,1,1,0,0,1,1,1,1,1,0,0,1,1,1
+39,22,"Female","University","Other training","Other",5,20,0,0,1,1,1,1,1,1,1,1,1,0,0,1,0,1,1,1,0,1,1,1,0,1,1,1,1
+40,22,"Female","Upper secondary / vocational","Other training","Other",4,20,1,0,0,1,1,1,1,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,0,1,0
+41,22,"Female","University","Other training","Other",9,23,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1
+42,21,"Female","University","Other training","Other",4,19,0,0,1,1,0,1,0,1,0,1,1,0,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1
+43,24,"Female","University","Other training","Other",7,25,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1
+44,23,"Male","University","Other training","Other",2,17,0,0,1,0,0,1,1,1,1,0,1,1,1,1,0,1,0,1,0,1,1,1,0,1,1,0,1
+45,23,"Male","University","Other training","Other",1,10,0,0,0,1,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0
+46,25,"Male","Upper secondary / vocational","Other training","Other",6,14,0,0,0,1,1,1,0,1,0,1,1,0,1,1,1,0,0,1,1,1,0,1,0,0,0,0,1
+47,23,"Female","Postgraduate","Other training","Other",4,15,0,0,1,0,1,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,0,0,0,0,0,1,1
+48,25,"Male","University","Other training","Other",2,18,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,0,1,1,1,1,1,0,0,1,1,0,1
+49,30,"Female","Postgraduate","Other training","Other",6,18,0,0,0,1,1,1,1,0,1,1,1,0,1,0,1,0,1,1,1,1,0,0,1,1,1,1,1
+50,23,"Female","University","Other training","Other",5,25,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1
+51,34,"Female","University","Other training","Other",9,20,1,0,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,1,1,0,1,0,0,1,1,1,1
+52,41,"Male","Postgraduate","Other training","Other",8,10,0,0,1,0,1,0,0,0,1,1,1,0,1,0,0,0,0,1,0,1,0,0,0,1,1,0,0
+53,23,"Female","University","Health training","Psychology",6,23,1,0,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1
+54,21,"Female","Upper secondary / vocational","Other training","Other",8,7,0,0,0,1,0,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+55,23,"Male","University","Other training","Other",8,12,1,0,1,0,1,1,1,1,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0
+56,24,"Male","University","Other training","Other",8,20,1,1,1,1,0,1,1,1,0,1,1,0,0,1,0,1,1,1,0,1,1,1,0,1,1,1,1
+57,22,"Male","Upper secondary / vocational","Other training","Other",5,20,1,0,1,0,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,0,0,1,1,0
+58,25,"Female","University","Other training","Other",4,12,0,0,0,1,0,1,1,0,0,0,1,1,1,1,1,0,1,0,0,0,0,0,0,1,1,0,1
+59,24,"Male","University","Other training","Other",1,17,0,0,0,1,1,0,1,1,1,1,1,0,0,0,1,1,0,1,0,1,1,1,0,1,1,1,1
+60,23,"Female","Postgraduate","Health training","Psychology",3,23,0,0,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1
+61,22,"Female","University","Health training","Psychology",5,24,1,0,1,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+62,46,"Male","Upper secondary / vocational","Other training","Other",6,11,0,0,0,0,1,1,1,1,1,0,1,0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0
+63,22,"Female","University","Other training","Other",3,17,0,0,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1,1,1,1,0,0,1,1,1,0
+64,38,"Female","University","Health training","Other",9,23,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,0,0,1,1,1,1
+65,22,"Female","University","Other training","Other",8,16,0,0,1,1,1,1,1,1,0,1,1,0,1,1,1,0,1,1,0,1,0,1,0,0,0,1,0
+66,25,"Male","Postgraduate","Other training","Other",5,24,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,0,1,1,1,1,1
+67,24,"Female","Postgraduate","Health training","Other",6,20,0,0,1,1,1,1,1,0,1,1,1,1,0,1,1,0,1,1,1,1,1,1,0,1,0,1,1
+68,24,"Female","Postgraduate","Other training","Other",5,21,1,1,1,1,1,1,1,0,0,1,1,0,0,1,1,1,1,1,0,1,0,1,1,1,1,1,1
+69,70,"Female","Primary","Other training","Other",5,13,0,0,1,1,0,1,1,1,1,0,1,0,1,1,1,1,1,0,0,0,1,0,0,0,0,0,0
+70,71,"Male","Upper secondary / vocational","Other training","Other",1,9,0,0,0,1,0,0,0,1,1,0,0,0,0,1,1,0,1,0,0,0,0,1,0,1,1,0,0
+71,23,"Male","University","Other training","Other",9,11,0,0,0,1,1,1,0,1,1,0,0,0,1,0,0,0,0,1,0,1,1,1,0,1,0,0,0
+72,23,"Male","University","Other training","Other",7,13,0,0,1,1,0,1,1,1,1,0,0,0,1,0,1,1,0,1,0,0,1,0,0,1,0,1,0
+73,53,"Female","Upper secondary / vocational","Other training","Other",9,15,0,0,1,0,1,1,1,1,1,1,1,0,1,0,1,0,1,1,0,1,1,0,0,0,0,0,1
+74,25,"Male","Postgraduate","Health training","Other",9,19,0,1,1,0,1,1,1,1,0,0,1,1,0,1,1,0,1,1,1,1,1,1,0,1,0,1,1
+75,43,"Male","University","Other training","Other",5,9,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,1,0,0,0,1,1,1,0,0
+76,25,"Male","Postgraduate","Health training","Other",8,23,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,1,1
+77,24,"Male","Postgraduate","Other training","Other",6,25,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+78,37,"Female","Postgraduate","Other training","Other",7,19,1,0,0,1,1,1,1,1,0,1,1,0,0,1,1,0,1,1,1,1,1,1,0,0,1,1,1
+79,52,"Female","University","Health training","Other",5,20,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,0,0,1
+80,41,"Female","Upper secondary / vocational","Other training","Other",7,11,1,0,0,0,0,1,0,1,1,0,1,0,0,1,0,1,1,1,1,0,0,0,0,0,0,1,0
+81,39,"Female","University","Other training","Other",7,18,1,0,0,1,0,1,0,1,1,1,1,0,1,1,1,0,1,1,1,1,1,0,0,1,1,0,1
+82,24,"Male","University","Other training","Other",5,13,0,0,0,1,1,1,1,0,1,1,1,1,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0
+83,23,"Female","University","Other training","Other",3,14,0,0,0,0,0,1,1,1,1,1,1,0,1,0,0,1,1,0,1,1,0,1,0,1,0,0,1
+84,24,"Female","Postgraduate","Other training","Other",7,25,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1
+85,24,"Male","Postgraduate","Other training","Other",4,16,0,0,0,1,1,0,1,0,0,1,1,1,1,1,1,0,1,0,1,1,1,0,0,1,0,1,1
+86,27,"Female","Upper secondary / vocational","Other training","Other",6,13,0,0,0,0,1,0,1,1,1,0,1,0,0,0,0,1,0,1,0,1,0,1,0,1,1,1,1
+87,23,"Female","University","Health training","Other",8,22,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,0,1,1,1,1
+88,23,"Male","University","Health training","Psychology",8,14,0,0,1,0,0,1,1,1,1,1,1,0,1,1,1,0,1,1,0,1,0,0,0,0,1,0,0
+89,28,"Female","Upper secondary / vocational","Other training","Other",7,6,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0
+90,21,"Female","University","Other training","Other",6,14,0,1,1,1,0,1,1,0,1,1,1,0,0,1,1,0,1,0,0,1,1,0,0,1,0,0,0
+91,22,"Female","University","Other training","Other",6,9,0,0,0,1,0,1,0,0,0,1,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,1,1
+92,20,"Female","University","Other training","Other",8,20,0,1,1,0,0,1,1,1,1,1,0,1,0,1,1,1,1,1,1,0,1,0,1,1,1,1,1
+93,54,"Male","Postgraduate","Health training","Other",2,17,0,0,0,0,0,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,0,0,1,1,0,1
+94,23,"Female","Postgraduate","Other training","Other",8,21,1,0,1,1,1,1,1,0,0,1,1,0,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1
+95,23,"Male","University","Other training","Other",6,22,0,0,1,0,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1
+96,54,"Female","University","Health training","Other",1,21,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,0,0,0,1,1,1
+97,24,"Female","Postgraduate","Health training","Psychology",4,23,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1
+98,21,"Male","University","Other training","Other",3,18,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,0,0,1,1,0,1
+99,22,"Male","University","Other training","Other",2,17,0,0,0,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,0,0,0,1,0,0,1,1,1
+100,27,"Female","Postgraduate","Other training","Other",7,18,0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,0,1,1,1,1,1,1,1,1,1,0,1
+101,46,"Female","Postgraduate","Other training","Other",4,23,1,1,1,1,0,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+102,26,"Male","Secondary","Other training","Other",8,18,0,0,0,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,0,1,0,1,1,0,1
+103,23,"Male","University","Other training","Other",8,9,0,0,1,1,0,1,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1
+104,41,"Female","University","Health training","Other",7,23,1,0,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1
+105,36,"Female","Secondary","Other training","Other",7,19,0,0,0,1,0,1,1,1,1,1,1,0,1,0,1,0,1,1,0,1,1,1,1,1,1,1,1
+106,27,"Female","University","Other training","Other",4,13,0,0,0,0,0,1,1,1,0,1,1,0,1,0,1,0,0,1,1,1,1,0,0,0,1,1,0
+107,58,"Female","Upper secondary / vocational","Other training","Other",5,16,0,0,0,1,1,1,1,1,1,1,1,0,1,0,1,0,1,1,0,1,1,0,0,0,1,0,1
+108,24,"Female","Postgraduate","Other training","Other",7,9,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,1,1,1
+109,23,"Female","University","Health training","Psychology",9,26,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1
+110,22,"Female","University","Health training","Psychology",6,22,1,0,0,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1
+111,20,"Female","University","Health training","Psychology",3,24,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1
+112,21,"Male","Upper secondary / vocational","Other training","Other",1,11,0,0,0,1,1,1,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,1,1,0,0,1,0
+113,51,"Female","Postgraduate","Other training","Other",9,20,1,0,0,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,0,0,1,1,1
+114,23,"Male","Upper secondary / vocational","Other training","Other",6,18,0,0,1,0,1,1,1,1,1,1,1,0,0,1,1,0,1,1,1,0,1,0,0,1,1,1,1
+115,21,"Male","University","Other training","Other",3,17,1,0,1,1,0,1,0,0,1,0,1,1,1,1,1,0,0,1,0,1,1,1,1,1,0,0,1
+116,20,"Female","Upper secondary / vocational","Other training","Other",7,17,0,0,1,1,1,1,1,0,0,1,1,0,0,1,0,0,1,1,1,1,0,0,1,1,1,1,1
+117,23,"Male","Upper secondary / vocational","Other training","Other",7,17,0,0,0,1,1,1,1,0,1,1,1,0,0,1,1,1,1,1,1,0,0,1,0,1,1,0,1
+118,23,"Male","Upper secondary / vocational","Other training","Other",3,18,1,0,0,0,1,1,1,0,1,1,1,1,0,1,1,1,1,1,0,1,1,1,0,1,1,0,0
+119,25,"Female","Upper secondary / vocational","Other training","Other",9,17,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,0,0,0,1,0,0,0,1,1,1,0
+120,25,"Female","University","Other training","Other",6,17,0,0,1,1,1,1,1,0,1,1,1,0,1,1,1,0,0,1,1,1,0,1,0,1,1,0,0
+121,25,"Female","Postgraduate","Other training","Other",7,20,0,0,1,0,1,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1
+122,25,"Female","University","Health training","Other",5,20,1,0,1,1,1,1,1,1,1,1,0,0,1,1,1,0,0,1,1,1,1,0,0,1,1,1,1
+123,24,"Female","University","Health training","Other",5,24,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,0
+124,19,"Female","Secondary","Other training","Other",7,16,0,0,0,1,1,1,1,0,0,1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,1,1,1
+125,27,"Female","University","Health training","Other",3,17,1,1,1,1,0,1,1,0,1,0,1,0,1,1,1,1,0,1,1,0,1,1,0,1,0,0,0
+126,25,"Female","University","Other training","Other",6,18,1,1,0,1,1,0,1,1,1,1,1,0,0,1,1,0,1,1,1,0,0,0,0,1,1,1,1
+127,29,"Male","University","Other training","Other",6,23,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0
+128,25,"Male","University","Other training","Other",6,18,1,0,1,1,0,1,0,1,0,1,1,0,1,1,0,1,1,1,0,1,1,0,0,1,1,1,1
+129,23,"Female","University","Other training","Other",3,18,1,0,1,1,1,1,0,1,0,1,1,0,1,1,1,0,1,1,0,1,0,0,0,1,1,1,1
+130,23,"Male","Postgraduate","Other training","Other",9,21,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,1,1,0
+131,24,"Male","Postgraduate","Other training","Other",7,19,1,0,0,0,1,1,1,0,1,1,1,0,1,1,1,0,1,1,1,0,1,1,1,1,0,1,1
+132,23,"Male","University","Other training","Other",8,16,1,0,0,1,0,1,1,0,1,0,1,0,1,1,1,0,1,1,1,1,0,0,0,1,0,1,1
+133,41,"Female","Postgraduate","Other training","Other",5,15,0,0,1,1,1,1,1,0,1,1,1,0,0,1,0,0,1,1,1,0,0,0,1,1,1,0,0
+134,42,"Male","University","Health training","Psychology",6,26,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1
+135,31,"Female","Postgraduate","Health training","Psychology",8,21,1,1,1,1,1,1,1,1,0,0,1,0,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1
+136,29,"Female","Postgraduate","Other training","Other",7,25,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1
+137,26,"Female","University","Health training","Psychology",6,25,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1
+138,47,"Female","University","Health training","Psychology",8,22,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1
+139,48,"Female","University","Health training","Psychology",4,17,1,1,1,1,0,1,1,1,0,0,1,0,0,1,1,1,1,1,0,1,0,0,0,1,0,1,1
+140,29,"Female","Upper secondary / vocational","Other training","Other",8,17,0,0,0,1,0,1,0,1,1,1,1,1,0,1,1,0,1,1,1,1,1,0,1,0,0,1,1
+141,43,"Female","University","Health training","Psychology",6,23,1,1,1,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0
+142,46,"Female","University","Health training","Psychology",6,20,0,0,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1
+143,29,"Female","Upper secondary / vocational","Other training","Other",3,26,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1
+144,33,"Female","University","Health training","Psychology",9,25,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1
+145,29,"Female","University","Health training","Psychology",4,17,1,1,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1,0,0,1,0,0,0,1,0,1
+146,32,"Female","University","Other training","Other",6,25,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+147,30,"Female","University","Other training","Other",5,25,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1
+148,34,"Female","University","Health training","Psychology",8,24,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1
+149,24,"Male","Postgraduate","Other training","Other",2,22,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,0
+150,25,"Female","University","Health training","Psychology",8,22,1,0,0,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1
+151,24,"Female","University","Health training","Psychology",7,23,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1
+152,27,"Female","Postgraduate","Health training","Psychology",7,24,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1
+153,20,"Female","University","Health training","Psychology",5,25,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1
+154,30,"Female","University","Health training","Psychology",7,20,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,1,0,1,1,1,0,1,1,0,0
+155,46,"Female","University","Health training","Psychology",2,23,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,0,1,1,1,0
+156,35,"Female","University","Health training","Psychology",5,25,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+157,22,"Male","University","Other training","Other",4,19,1,0,1,0,1,1,1,0,0,1,1,0,1,1,1,0,1,1,1,1,1,0,0,1,1,1,1
+158,34,"Female","Postgraduate","Health training","Psychology",4,22,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,1,1
+159,30,"Female","University","Health training","Psychology",6,22,1,1,1,1,1,1,1,0,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+160,57,"Female","University","Health training","Psychology",8,20,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,0,0,0,1,0,1,1
+161,22,"Female","University","Health training","Psychology",10,20,1,1,1,1,0,1,1,1,1,0,1,1,0,1,1,0,1,1,1,0,0,0,1,1,1,1,1
+162,24,"Female","Postgraduate","Other training","Other",7,20,0,0,1,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1
+163,46,"Female","Postgraduate","Health training","Psychology",3,23,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1
+164,23,"Female","Postgraduate","Health training","Psychology",6,26,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1
+165,23,"Female","University","Health training","Psychology",7,17,0,0,1,1,0,1,0,0,0,0,1,0,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1
+166,34,"Female","Postgraduate","Other training","Other",7,22,0,0,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+167,28,"Female","Postgraduate","Health training","Psychology",4,20,1,0,1,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1,1,1,0,0,1,0,0,1,1
+168,26,"Female","Postgraduate","Health training","Psychology",7,24,1,0,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+169,30,"Female","Postgraduate","Health training","Psychology",9,23,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0
+170,47,"Female","University","Health training","Psychology",3,24,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0
+171,23,"Female","Postgraduate","Health training","Psychology",6,23,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+172,34,"Female","Postgraduate","Health training","Psychology",6,23,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,0,1,1,1,0,1,1,1,1
+173,24,"Male","Postgraduate","Other training","Other",8,18,0,0,0,0,1,1,1,1,1,1,1,0,1,0,1,0,1,1,1,1,1,0,0,1,1,1,1
+174,20,"Female","University","Other training","Other",7,22,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0

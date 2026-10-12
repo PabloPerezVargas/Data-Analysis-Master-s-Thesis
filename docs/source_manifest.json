@@ -1,0 +1,100 @@
+{
+  "thesis_sha256": "505a3ec9df79f20585b715b151fde34e9a506245d3aec382f53f880a404004da",
+  "tables": [
+    {
+      "file": "table_03_descriptives.csv",
+      "thesis_table": 3,
+      "source": "Submitted thesis, translated labels; original values"
+    },
+    {
+      "file": "table_04_gender.csv",
+      "thesis_table": 4,
+      "source": "Submitted thesis, translated labels; original values"
+    },
+    {
+      "file": "table_05_education.csv",
+      "thesis_table": 5,
+      "source": "Submitted thesis, translated labels; original values"
+    },
+    {
+      "file": "table_06_anxiety_interaction.csv",
+      "thesis_table": 6,
+      "source": "Submitted thesis, translated labels; original values"
+    },
+    {
+      "file": "table_07_knowledge_interaction.csv",
+      "thesis_table": 7,
+      "source": "Submitted thesis, translated labels; original values"
+    },
+    {
+      "file": "table_08_efa_variance.csv",
+      "thesis_table": 8,
+      "source": "Submitted thesis, translated labels; original values"
+    },
+    {
+      "file": "table_09_efa_loadings.csv",
+      "thesis_table": 9,
+      "source": "Submitted thesis, translated labels; original values"
+    },
+    {
+      "file": "table_10_reliability.csv",
+      "thesis_table": 10,
+      "source": "Submitted thesis, translated labels; original values"
+    },
+    {
+      "file": "table_11_logistic_biplot.csv",
+      "thesis_table": 11,
+      "source": "Submitted thesis, translated labels; original values"
+    },
+    {
+      "file": "table_12_ncdif_factor1.csv",
+      "thesis_table": 12,
+      "source": "Submitted thesis, translated labels; original values"
+    },
+    {
+      "file": "table_13_ncdif_factor2.csv",
+      "thesis_table": 13,
+      "source": "Submitted thesis, translated labels; original values"
+    },
+    {
+      "file": "table_14_ncdif_factor3.csv",
+      "thesis_table": 14,
+      "source": "Submitted thesis, translated labels; original values"
+    },
+    {
+      "file": "table_15_dtf.csv",
+      "thesis_table": 15,
+      "source": "Submitted thesis, translated labels; original values"
+    },
+    {
+      "file": "table_16_cfa_factors.csv",
+      "thesis_table": 16,
+      "source": "Submitted thesis, translated labels; original values"
+    },
+    {
+      "file": "table_17_lstm_architecture.csv",
+      "thesis_table": 17,
+      "source": "Submitted thesis, translated labels; original values"
+    },
+    {
+      "file": "table_18_synthetic_accuracy.csv",
+      "thesis_table": 18,
+      "source": "Submitted thesis, translated labels; original values"
+    },
+    {
+      "file": "table_19_human_accuracy.csv",
+      "thesis_table": 19,
+      "source": "Submitted thesis, translated labels; original values"
+    },
+    {
+      "file": "table_20_human_predictions.csv",
+      "thesis_table": 20,
+      "source": "Submitted thesis, translated labels; original values"
+    }
+  ],
+  "figures": "Original images extracted from the submitted Word document; original labels preserved.",
+  "figures_directory": "thesis/figures",
+  "additional_results": {
+    "cfa_fit_from_text.csv": "Complete and reduced CFA results transcribed from the thesis results sections."
+  }
+}

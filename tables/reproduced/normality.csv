@@ -1,0 +1,17 @@
+"Outcome","Group","Level","n","W","p"
+"total_score","gender","Female",116,0.919484929199022,3.17086080690008e-06
+"total_score","gender","Male",57,0.970487901888079,0.176803538875411
+"total_score","education","Upper secondary / vocational",24,0.981022498797764,0.913926590042229
+"total_score","education","Secondary",6,0.79837313318762,0.056823442163308
+"total_score","education","Postgraduate",54,0.903399383522093,0.000371925812902869
+"total_score","education","University",89,0.939991084862285,0.000460034991140083
+"total_score","group","Health training",63,0.928383233635972,0.00125339403631404
+"total_score","group","Other training",110,0.963130834384574,0.00390333851363681
+"perceived_anxiety","gender","Female",116,0.949823050673831,0.000272981087382419
+"perceived_anxiety","gender","Male",57,0.929190860412629,0.00248905263825358
+"perceived_anxiety","education","Upper secondary / vocational",24,0.927011173487202,0.0835998210922921
+"perceived_anxiety","education","Secondary",6,0.639893704823098,0.00135075284870458
+"perceived_anxiety","education","Postgraduate",54,0.938169392905972,0.00782403564284817
+"perceived_anxiety","education","University",89,0.954212348024259,0.00328675700521459
+"perceived_anxiety","group","Health training",63,0.95183003857542,0.0151836444052485
+"perceived_anxiety","group","Other training",110,0.929644337085729,2.05447917584165e-05

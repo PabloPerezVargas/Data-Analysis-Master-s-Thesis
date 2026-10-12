@@ -1,0 +1,7 @@
+{
+  "original_table_values": "18 tables match the submitted Word document",
+  "data": "174 rows; every total equals the sum of 27 binary item scores",
+  "thesis_pdf": "SHA-256 matches the original",
+  "markdown_links": "All local links resolve",
+  "analysis": "R/analysis.R and R/render_original_tables.R executed successfully"
+}

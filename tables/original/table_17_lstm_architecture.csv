@@ -1,0 +1,8 @@
+Layer type,Output shape,Parameters
+embedding (Embedding),"(None, 22, 512)",5120000
+Istm (LSTM),"(None, 22, 128)",328192
+dropout (Dropout),"(None, 22, 128)",0
+Istm 1 (LSTM),"(None, 64)",49408
+dense (Dense),"(None, 32)",2080
+dense 1 (Dense),"(None, 3)",99
+"Total params: 5,499,779  Trainable params: 5,499,779 Non-trainable params: 0",,

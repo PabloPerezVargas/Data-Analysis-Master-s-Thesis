@@ -1,0 +1,108 @@
+# Design and validation of two anxiety knowledge questionnaires
+
+Master's Thesis in Advanced Multivariate Data Analysis and Big Data | University of Salamanca | 2022–2023
+
+**Authors:** Eduardo Galván Vidal and Pablo Pérez Vargas
+
+**Supervisors:** Mercedes Sánchez Barba and María Cortés Rodríguez
+
+## Overview
+
+This thesis grew out of a practical question: how can we measure what a person knows about anxiety?
+
+Knowing how anxiety works, recognising its symptoms and understanding how to respond to them are central parts of psychoeducation. We designed two questionnaires to assess that knowledge: a multiple-choice test and a short questionnaire with open-ended questions.
+
+The repository includes the original thesis, its main findings, tables and figures, and the analyses rebuilt in R.
+
+## Research question and aim
+
+Can a questionnaire measure anxiety knowledge and identify the areas in which a person needs more information?
+
+The aim was to design and assess both questionnaires, compare their results and explore the relationship between anxiety knowledge and perceived anxiety.
+
+## Sample and measures
+
+The thesis describes **172 participants**, including **56 men and 116 women**, in the multiple-choice study. Most participants had higher education. Responses were collected through Google Forms, shared on social media and through University of Salamanca emails.
+
+| Measure | Description |
+|---|---|
+| Anxiety knowledge | 27 multiple-choice questions, scored as correct or incorrect |
+| Perceived anxiety | One question scored from 1 to 10 |
+| Participant characteristics | Age, gender, education and field of study |
+| Open-ended questionnaire | Six questions about anxiety, its function, prevention and the physiological, cognitive and behavioural response |
+
+The open-ended questionnaire received **15 human responses**. The second study also used **100 generated responses per question**, with three knowledge levels: low, medium and high.
+
+## Analytical workflow
+
+| Step | Method |
+|---|---|
+| Description of the sample | Means, standard deviations and frequencies |
+| Group comparisons | Normality checks and Kruskal–Wallis tests |
+| Interaction effects | Analysis of variance |
+| Number of factors | Parallel analysis and scree plot |
+| Questionnaire structure | Exploratory factor analysis with three factors |
+| Internal consistency | Cronbach's alpha |
+| Item analysis | Item information curves |
+| Grouping of participants | External logistic biplot |
+| Differential item functioning | DFIT: NCDIF and DTF |
+| Model fit | Complete and reduced confirmatory factor models |
+| Open-ended answers | Word clouds and an LSTM model with three output classes |
+
+## Main findings
+
+The following results are those reported in the thesis.
+
+**Anxiety knowledge differed between groups.** Women, participants with higher education and the health group obtained higher knowledge scores. Women also reported higher perceived anxiety. The health group did not show a significant difference in perceived anxiety.
+
+**The three factors explained 39.3% of the variance.** The first factor concerned coping techniques and strategies. The second concerned more theoretical knowledge of anxiety and was harder to interpret. The third concerned recognising and distinguishing anxiety symptoms.
+
+**The complete questionnaire had an alpha of 0.81.** The values for the three factors were **0.73**, **0.59** and **0.70**. The second factor showed the lowest internal consistency.
+
+**Many questions were too easy.** Their information curves were mainly located at low ability levels. The analysis identified questions that contributed little information and could be improved or replaced.
+
+**The logistic biplot showed differences between the health and non-health groups.** It also helped identify which questions distinguished participants with different levels of knowledge.
+
+![External logistic biplot from the thesis](thesis/figures/figure_16.png)
+
+**Item functioning differed between groups in all three factors.** The reported DTF values were **2.509**, **3.034** and **5.297**, above their respective critical values.
+
+**The reduced confirmatory model showed a better fit.** The complete model had **CFI = 0.807** and **TLI = 0.789**. The reduced model had **CFI = 0.964**, **TLI = 0.959** and **p = 0.199**.
+
+**The open-ended model performed better on generated answers than on human answers.** The thesis reported an average accuracy of **77%** on generated answers and **50%** on the 15 human responses. Predictions tended towards the medium knowledge category.
+
+The work provides a starting point for measuring anxiety knowledge. Improving the questions and collecting more responses were the main directions proposed for further work.
+
+## Repository structure
+
+```text
+README.md
+data/                 Item scores and participant variables used in R
+R/                    Data preparation and analysis scripts
+figures/reproduced/   Figures generated by R, with English labels
+tables/original/      Thesis tables, with English labels and original values
+tables/reproduced/    Results calculated from the recovered data
+thesis/               Original PDF, Word document and figures
+docs/                 Analysis settings and comparison notes
+```
+
+## Reproducibility
+
+```bash
+Rscript R/install_packages.R
+Rscript R/analysis.R
+```
+
+The recovered file contains **174 responses**. The scripts keep the sample selection visible for each analysis. Total reliability and the complete confirmatory model use all 174 item response patterns and recover the published values.
+
+The original tables and figures are preserved. Results calculated in R are saved separately, together with a [comparison with the thesis](tables/reproduced/comparison_with_thesis.csv). The [analysis notes](docs/analysis_notes.md) record the remaining differences, the group coding and the reduced model item sets.
+
+The open-ended response data have not been recovered. Its original results remain in the tables and figures. The six-layer model is included in [R/07_open_response.R](R/07_open_response.R).
+
+## Thesis document
+
+[Read the full thesis](thesis/thesis.pdf) (in Spanish). The original [Word document](thesis/thesis.docx) is also included.
+
+## Citation
+
+Galván Vidal, E., & Pérez Vargas, P. (2023). *Design and validation of two anxiety knowledge questionnaires for the study of the relationship between knowledge and perceived anxiety*. Master's thesis, University of Salamanca.

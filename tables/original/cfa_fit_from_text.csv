@@ -1,0 +1,3 @@
+Model,CFI,TLI,p
+Complete,0.807,0.789,<.05
+Reduced,0.964,0.959,0.199

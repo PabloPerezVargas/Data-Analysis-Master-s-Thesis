@@ -1,0 +1,7 @@
+"Outcome","Group","Statistic","df","p"
+"total_score","gender",22.5692767253145,1,2.02700367300666e-06
+"total_score","education",28.1926109796503,3,3.30916026716432e-06
+"total_score","group",49.2579349420571,1,2.24423702735969e-12
+"perceived_anxiety","gender",6.39125079448287,1,0.0114684190050491
+"perceived_anxiety","education",4.67011068689983,3,0.197609497939202
+"perceived_anxiety","group",0.131944644600257,1,0.716424224644093

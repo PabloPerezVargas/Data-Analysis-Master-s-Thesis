@@ -1,0 +1,13 @@
+.Rhistory
+.RData
+.Rproj.user/
+Rplots.pdf
+*.csv
+!data/analysis_data.csv
+!data/item_dictionary.csv
+!data/factor_membership.csv
+!tables/**/*.csv
+!docs/*.csv
+*.h5
+*.keras
+__pycache__/
